@@ -43,7 +43,7 @@ Este proyecto gestiona dos bases de datos: **Universitaria** y **Tienda**, dise�
 ## 🛠️ Instalación
 1. Clona este repositorio:
    ```bash
-   git clone S2.02.-MySQL-Queries-S2.02
+   git clone https://github.com/eze-ms/S2.02
    
 ---
 
